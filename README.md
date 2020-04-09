@@ -1,2 +1,2 @@
 # et_ting
-Et_tings
+Et_ting
