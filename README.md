@@ -1,2 +1,2 @@
-# et_ting_test
-Et_tings testside
+# et_ting
+Et_tings
