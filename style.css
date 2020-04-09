@@ -114,6 +114,13 @@ h3 {
     padding-top: 0px;
 }
 
+a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12pt;
+    font-weight: 400;
+    color: aliceblue;
+    padding-top: 5px;
+}
 /* Sidens struktur */
 .left {
     background-image: linear-gradient(rgb(90, 170, 230), rgb(5, 255, 5));
