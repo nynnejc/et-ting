@@ -106,6 +106,10 @@ h3 {
 
 }
 
+.middle a {
+    font-size: 14pt;
+}
+
 /*.middle h2 {
     font-size: 50pt;
     font-weight: lighter;
